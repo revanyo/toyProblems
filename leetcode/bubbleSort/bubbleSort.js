@@ -1,6 +1,6 @@
 let array = [];
 
-for (let i = 0; i < 1000; i++) {
+for (let i = 0; i < 10000; i++) {
   let num = Math.floor(Math.random() * 1000);
   array.push(num);
 }
